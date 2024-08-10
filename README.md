@@ -1,2 +1,3 @@
-# ssbd-metadata
+# SSBD metadata
+
 SSBD metadata
