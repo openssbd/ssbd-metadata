@@ -1,1 +1,3 @@
-SSBD metadata v2
+SSBD metadata model v2
+
+[template]()
