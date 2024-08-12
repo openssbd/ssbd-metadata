@@ -5,4 +5,4 @@ We are modifying the metadata structure and adding new components. The updates w
 |class|component|necessity|multiplicity|range|
 |-----|---------|-----|------------|---------|
 |Project|SID|required|1|string|
-
+||name|required|1|text|
