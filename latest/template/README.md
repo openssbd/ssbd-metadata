@@ -1,1 +1,1 @@
-SSBD metada template page
+SSBD metada template directory
