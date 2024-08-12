@@ -9,7 +9,7 @@ The current released version of the SSBD metadata is [2](https://github.com/open
 The [latest](https://github.com/openssbd/ssbd-metadata/tree/main/latest) version is under development.
 
 Version directory:
-- [2](https://github.com/openssbd/ssbd-metadata/tree/main/2)
+- [v2](https://github.com/openssbd/ssbd-metadata/tree/main/2)
 - [latest](https://github.com/openssbd/ssbd-metadata/tree/main/latest)
 
 ## ontology
