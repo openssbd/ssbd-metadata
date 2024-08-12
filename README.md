@@ -16,3 +16,7 @@ A part of the metadata components are described by controlled vocabulary/ontolog
 |Gene Ontology (Biological Process)|Biological process|x|x|
 |Gene Ontology (Cellular Component)|Cellular component|x|x|
 |Gene Ontology (Molecular Function)|Molecular function|x|x|
+|Cell Ontology|Cell||x|
+|Cell Line Ontology|Cell Line|x|x|
+|Uberon multi-species anatomy ontology|Anatomy||x|
+|Biological Imaging Methods Ontology|x|x|
