@@ -10,6 +10,7 @@ History
 - [2](https://github.com/openssbd/ssbd-metadata/tree/main/2)
 - [latest](https://github.com/openssbd/ssbd-metadata/tree/main/latest)
 
+
 A part of the metadata components are described by controlled vocabulary/ontology.
 |controlled vocabulary/ontology|topic| v2 | v3 |
 |------------------------------|-----|:--:|:--:|
