@@ -1,0 +1,1 @@
+SSBD metadata model directory
