@@ -4,8 +4,8 @@
 
 The current released version of the SSBD metadata is 2.
 
-The latest version is under development.
+The [latest](https://github.com/openssbd/ssbd-metadata/tree/main/latest) version is under development.
 
 History
 - 2
-- latest
+- [latest](https://github.com/openssbd/ssbd-metadata/tree/main/latest)
