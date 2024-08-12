@@ -1,3 +1,4 @@
 SSBD metadata model v2
 
-[template]()
+[template (SSBD:repository)]()
+[template (SSBD:database)]()
