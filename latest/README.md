@@ -1,4 +1,4 @@
-SSBD metadata model 3
+## SSBD metadata model 3
 
 Here is the class diagram of the second version of the SSBD metadata model. It illustrates the updated structure and relationships of the metadata elements.
 
